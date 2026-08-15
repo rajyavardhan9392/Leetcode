@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -15,5 +16,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
