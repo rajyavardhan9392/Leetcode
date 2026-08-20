@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rajyavardhan9392/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rajyavardhan9392/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
