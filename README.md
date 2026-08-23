@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
