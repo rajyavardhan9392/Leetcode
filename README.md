@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rajyavardhan9392/Leetcode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
