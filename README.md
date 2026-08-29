@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
+| [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
