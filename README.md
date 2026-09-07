@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rajyavardhan9392/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
