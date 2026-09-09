@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/rajyavardhan9392/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/rajyavardhan9392/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
