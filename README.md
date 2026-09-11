@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/rajyavardhan9392/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
