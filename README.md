@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/rajyavardhan9392/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/rajyavardhan9392/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rajyavardhan9392/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3870-count-commas-in-range](https://github.com/rajyavardhan9392/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/rajyavardhan9392/Leetcode/tree/master/2427-number-of-common-factors) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rajyavardhan9392/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
