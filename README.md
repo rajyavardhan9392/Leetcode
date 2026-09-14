@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/rajyavardhan9392/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -149,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/rajyavardhan9392/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rajyavardhan9392/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
