@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rajyavardhan9392/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/rajyavardhan9392/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/rajyavardhan9392/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
