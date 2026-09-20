@@ -158,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rajyavardhan9392/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rajyavardhan9392/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
