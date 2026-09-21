@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/rajyavardhan9392/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2928-distribute-candies-among-children-i](https://github.com/rajyavardhan9392/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3870-count-commas-in-range](https://github.com/rajyavardhan9392/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/rajyavardhan9392/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2928-distribute-candies-among-children-i](https://github.com/rajyavardhan9392/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/rajyavardhan9392/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
