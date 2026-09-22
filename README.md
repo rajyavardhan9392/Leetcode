@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3024-type-of-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3024-type-of-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/rajyavardhan9392/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2928-distribute-candies-among-children-i](https://github.com/rajyavardhan9392/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [3024-type-of-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/3024-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/rajyavardhan9392/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3024-type-of-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
