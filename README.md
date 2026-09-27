@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3798-largest-even-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
