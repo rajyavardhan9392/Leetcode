@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/rajyavardhan9392/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/rajyavardhan9392/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/rajyavardhan9392/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3024-type-of-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajyavardhan9392/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2678-number-of-senior-citizens](https://github.com/rajyavardhan9392/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/3798-largest-even-number) |
 ## Simulation
