@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajyavardhan9392/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2239-find-closest-number-to-zero](https://github.com/rajyavardhan9392/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rajyavardhan9392/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/rajyavardhan9392/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
