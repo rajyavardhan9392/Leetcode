@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rajyavardhan9392/Leetcode/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0118-pascals-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
