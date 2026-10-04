@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rajyavardhan9392/Leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/0507-perfect-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rajyavardhan9392/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rajyavardhan9392/Leetcode/tree/master/0069-sqrtx) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/rajyavardhan9392/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rajyavardhan9392/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
