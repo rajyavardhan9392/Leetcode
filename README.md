@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rajyavardhan9392/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/rajyavardhan9392/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/rajyavardhan9392/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/rajyavardhan9392/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajyavardhan9392/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rajyavardhan9392/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rajyavardhan9392/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/rajyavardhan9392/Leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajyavardhan9392/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajyavardhan9392/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/1539-kth-missing-positive-number) |
