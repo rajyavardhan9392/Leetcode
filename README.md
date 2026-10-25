@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/rajyavardhan9392/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/rajyavardhan9392/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajyavardhan9392/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/rajyavardhan9392/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/rajyavardhan9392/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/rajyavardhan9392/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
