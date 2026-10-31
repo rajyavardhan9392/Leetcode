@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rajyavardhan9392/Leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/rajyavardhan9392/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajyavardhan9392/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/rajyavardhan9392/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rajyavardhan9392/Leetcode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/rajyavardhan9392/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/rajyavardhan9392/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rajyavardhan9392/Leetcode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/rajyavardhan9392/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rajyavardhan9392/Leetcode/tree/master/0709-to-lower-case) |
 | [2678-number-of-senior-citizens](https://github.com/rajyavardhan9392/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rajyavardhan9392/Leetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajyavardhan9392/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
